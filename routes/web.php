@@ -25,6 +25,7 @@ Route::get('/posts/about', [MainController::class, 'about'])
         Route::get('/dashboard', [DashboardController::class, 'index'])
             ->name('index');
 
+        // Ici, il y a déjà dashboard comme prefix... Faut plus en rajouter
         Route::get('/dashboard/articles', [DashboardController::class, 'articles'])
             ->name('articles');
 
