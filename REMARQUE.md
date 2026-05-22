@@ -14,3 +14,5 @@
 4. Améliore la définition de tes routes 
 
 5. L'architecture dans le readme demande à ce qu'on utilise public pour travailler
+
+6. Merci des réponses sincères dans les questions réponses, ça fait partie des raisons qui feront que tu sois autorisé à refaire ton travail.
